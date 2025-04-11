@@ -9,3 +9,7 @@ XCcxigfa7kxfbo6y5/eg2Rb1ufQ6iFX9Z7sSeE/2
 $env:AWS_ACCESS_KEY_ID ="AKIATBRPQKHYIRCFMMXX"
 
 $env:AWS_SECRET_ACCESS_KEY ="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"
+
+
+ECR name: vehicleproj
+ECR URI: 209479291376.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
