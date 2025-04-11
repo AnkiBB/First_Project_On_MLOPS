@@ -1,0 +1,11 @@
+
+Access key for IAM user
+
+
+AKIATBRPQKHYIRCFMMXX
+
+XCcxigfa7kxfbo6y5/eg2Rb1ufQ6iFX9Z7sSeE/2
+
+$env:AWS_ACCESS_KEY_ID ="AKIATBRPQKHYIRCFMMXX"
+
+$env:AWS_SECRET_ACCESS_KEY ="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"
